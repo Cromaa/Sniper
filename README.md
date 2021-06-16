@@ -2,7 +2,7 @@
 
 :dart: MIRE NA SUA SAÚDE E ACERTE SEU BEM-ESTAR :muscle:
 
-:mobile_phone: O aplicativo Sniper é indicado principalmente para pessoas que desejam melhorar a qualidade de vida. Nosso diferencial é não existir uma plataforma que una só profissionais e atletas, facilitando o contato entre eles, além de melhorar a divulgação de esportes pouco reconhecidos e de pequenos estabelecimentos. 
+ O aplicativo Sniper é indicado principalmente para pessoas que desejam melhorar a qualidade de vida. Nosso diferencial é não existir uma plataforma que una só profissionais e atletas, facilitando o contato entre eles, além de melhorar a divulgação de esportes pouco reconhecidos e de pequenos estabelecimentos. 
 Cadastre-se nesse aplicativo para encontrar suas atividades preferidas em apenas um clique
 
 :eye: Dê uma olhada em tudo que te espera:
