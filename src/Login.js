@@ -31,7 +31,7 @@ export default function Login({route, navigation}){
     const AlteraSenha = () => {
         setSenhaAtual(auxSenha)
         if(NovaSenha == SenhaAtual || RepNovaSenha == SenhaAtual){
-            Alert.alert('😱 Opsss', 'Sua nova senha não pode ser igual a antiga')
+            Alert.alert('😱 Opssss', 'Sua nova senha não pode ser igual a antiga')
         } else if(auxEmail == VerEmail){
             if(NovaSenha == RepNovaSenha){
                 setSenhaAtual(NovaSenha)
